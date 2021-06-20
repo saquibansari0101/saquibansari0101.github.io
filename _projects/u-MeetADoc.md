@@ -1,6 +1,6 @@
 ---
 title: "Meet A Doc"
-tagline: "Docotr appointment booking"
+tagline: "Doctor appointment booking app"
 website: ""
 skills: ["Flutter", "Android", "Dart", "SpringBoot" ]
 ---
